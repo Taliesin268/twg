@@ -1,0 +1,11 @@
+The Blade of the Avenger Weapon (greatsword), legendary (requires attunement by a paladin or a celestial warlock)
+
+This greatsword was crafted by one of the Gods of the Old Kingdom, and it glows with a radiant light. The blade is inscribed with ancient runes that speak of justice and vengeance. The weapon is sentient and has a lawful good alignment. It has hearing and darkvision out to a range of 120 feet. The weapon can read and understand Common and Celestial, and it can communicate telepathically with its wielder.
+
+The weapon has the following properties:
+
+- You gain a +3 bonus to attack and damage rolls made with this weapon. When you hit a fiend or an undead with it, that creature takes an extra 3d6 radiant damage.
+- As a bonus action, you can shunt the weapon into an extradimensional space, where it remains until you use another bonus action to summon it back to your hand. You can do this regardless of whether you have the Pact of the Blade feature or not. The telepathic link remains even while it is in this space.
+- The weapon grants you resistance to necrotic damage and advantage against fear effects.
+- The weapon has 5 charges and regains 1d4 + 1 expended charges daily at dawn. You can use an action and expend 1 or more charges to cast one of the following spells from the weapon (save DC 18): banishing smite (1 charge), blinding smite (1 charge), branding smite (1 charge), or staggering smite (2 charges). You can also use an action and expend 3 charges to cast the revivify spell on a creature you touch with the weapon, without requiring material components.
+- The weapon is loyal to you, but it also seeks to uphold the ideals of the god-valkyrie who created it. It urges you to fight against evil, especially fiends and undead, and to protect the innocent and the oppressed. If you act in a way that is contrary to the weapon’s alignment or purpose, the weapon can make a Charisma check contested by your Charisma check. If the weapon wins the contest, it functions as a mundane greatsword for the purposes of that action.

@@ -1,0 +1,7 @@
+Remy is a human wizard who specializes in psionics, the power of the mind. He joined [[The Circus]] as a psychic, but he was experimented on by the ringmaster, who tried to enhance his abilities. He is smart, curious, and sarcastic, but also secretive and cautious. He has a metal staff that he uses as his arcane focus and his weapon. He also uses playing cards, dice, and coins as magically infused ranged weapons. He can use telepathy to communicate with others or read their minds, and telekinesis to move objects or enemies with his mind. He escaped from [[The Circus]] with his new friends, and became an adventurer, searching for knowledge and power. He doesn’t talk much, but when he does, he is like a snake oil salesman or a conman. He is very charming and sleazy, and always seems like he is trying to pull a trick on someone. ^summary
+
+Remy is a human wizard who specializes in psionics. He has a pale complexion and pink eyes that faintly sparkle. He has long black hair that, when brushed back, reveals a tattoo of a third eye on his forehead, a sign of his mastery of psionics. He wears a purple cloak over a black leather armour, and a pair of gloves that have metal rings on the fingers. He carries a metal staff that he uses as his arcane focus and his weapon. With his skills in telekinesis, he also uses playing cards, dice, and coins as magically infused ranged weapons, and will often be seen with these things floating around him when things get dire. ^physical-description
+
+---
+
+![[Remy LeBeau Character Sheet.pdf]]

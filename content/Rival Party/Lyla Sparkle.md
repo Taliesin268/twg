@@ -1,0 +1,7 @@
+Lyla is a petite gnome who loves nature and animals. She joined [[The Circus]] to care for them, but she was forced to transform into different beasts for the shows. She is a druid who can use magic to heal and shape-shift. She has a white rabbit named [[Fluffy]], who is her animal companion. She escaped from [[The Circus]] with her new friends, and became an adventurer, seeking to explore the world and protect the environment. She has fair skin, bright green eyes, and long curly hair dyed in various shades of pink, purple, and blue. She wears a simple white dress, adorned with flowers and leaves, and a wooden staff, carved with animal motifs. She doesn’t like when the other members of the group are rude or boastful in front of others, but she understands that it’s necessary to keep them safe. She is often apologetic to those that her group is rude to, but typically only when the rest of the group can’t notice. ^summary
+
+Lyla is a petite and pretty gnome with a passion for nature and life. She has a fair complexion, bright green eyes, and a cute button nose. Her hair is long and curly, dyed in various shades of pink, purple, and blue. She wears a simple white dress, adorned with flowers and leaves, and a pair of sandals. She also has a wooden staff, carved with animal motifs, and a leather pouch, filled with seeds and herbs. She is always accompanied by her animal companion, a white rabbit named [[Fluffy]]. ^physical-description
+
+---
+
+![[Lyla Sparkle Character Sheet.pdf]]
