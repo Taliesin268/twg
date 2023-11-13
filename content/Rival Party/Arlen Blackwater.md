@@ -4,4 +4,5 @@ Arlen is a proud and elegant Drow, with a slender physique and a graceful postu
 
 ---
 
+# [[Arlen Blackwater Character Sheet.pdf|Character Sheet]]
 ![[Arlen Blackwater Character Sheet.pdf]]

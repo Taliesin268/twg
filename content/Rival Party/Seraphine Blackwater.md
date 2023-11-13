@@ -4,4 +4,5 @@ Seraphine is a half-Drow with a curvy and athletic build. Her skin is a lighter
 
 ---
 
+# [[Seraphine Blackwater Character Sheet.pdf|Character Sheet]]
 ![[Seraphine Blackwater Character Sheet.pdf]]
