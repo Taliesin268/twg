@@ -4,4 +4,5 @@ Remy is a human wizard who specializes in psionics. He has a pale complexion and
 
 ---
 
+# [[Remy LeBeau Character Sheet.pdf|Character Sheet]]
 ![[Remy LeBeau Character Sheet.pdf]]

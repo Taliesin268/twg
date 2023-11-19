@@ -4,4 +4,5 @@ Bjorn is a colossal specimen of dwarven strength and endurance. He towers over m
 
 ---
 
+# [[Bjorn Ironfist Character Sheet.pdf|Character Sheet]]
 ![[Bjorn Ironfist Character Sheet.pdf]]

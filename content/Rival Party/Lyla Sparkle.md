@@ -4,4 +4,5 @@ Lyla is a petite and pretty gnome with a passion for nature and life. She has a 
 
 ---
 
+# [[Lyla Sparkle Character Sheet.pdf|Character Sheet]]
 ![[Lyla Sparkle Character Sheet.pdf]]
